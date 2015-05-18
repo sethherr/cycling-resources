@@ -1,8 +1,7 @@
 # Devices
 
-## Hardware
-[Garmin](https://buy.garmin.com/nl-BE/BE/cIntoSports-cCycling-p1.html)
+Collection of useful devices.
 
-## Online tools
-[Strava](http://www.strava.com/)
-[Fit File Tools](https://www.fitfiletools.com/)
+## Hardware
+
+[Garmin](https://buy.garmin.com/nl-BE/BE/cIntoSports-cCycling-p1.html)
