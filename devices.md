@@ -2,6 +2,10 @@
 
 Collection of useful devices.
 
-## Hardware
+## GPS
 
-[Garmin](https://buy.garmin.com/nl-BE/BE/cIntoSports-cCycling-p1.html)
+* [Garmin](https://buy.garmin.com/nl-BE/BE/cIntoSports-cCycling-p1.html)
+
+## Power Meters
+
+* [Stages Power](http://www.stagescycling.com/stagespower)
