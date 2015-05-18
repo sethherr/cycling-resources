@@ -1,6 +1,9 @@
 # Tools
 
-A collection of tools, for example: analytics website such as strava; Hardware;
+A collection of tools, for example: analytics website such as strava;
 etc ...
 
-* [FIT-file tools](https://www.fitfiletools.com)
+## Online Tools
+
+[Strava](http://www.strava.com/)
+[Fit File Tools](https://www.fitfiletools.com/)
