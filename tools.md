@@ -5,5 +5,5 @@ etc ...
 
 ## Online Tools
 
-[Strava](http://www.strava.com/)
-[Fit File Tools](https://www.fitfiletools.com/)
+* [Strava](http://www.strava.com/)
+* [Fit File Tools](https://www.fitfiletools.com/)
