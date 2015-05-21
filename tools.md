@@ -3,6 +3,11 @@
 A collection of tools, for example: analytics website such as strava;
 etc ...
 
+# Training Tools
+
+* [Golden Cheetah](http://www.goldencheetah.org): An open-sourced Training Peaks WKO for the rest of us.
+* [WKO](http://home.trainingpeaks.com/products/products-for-coaches): A training analyzer/coach
+
 ## Activity trackers/analytics
 
 * [Strava](http://www.strava.com/): GPS Run and Ride Tracker
