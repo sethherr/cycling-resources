@@ -9,3 +9,7 @@ Collection of useful devices.
 ## Power Meters
 
 * [Stages Power](http://www.stagescycling.com/stagespower): A power meter for every rider.
+
+
+## Training
+* [Tacx](https://www.tacx.com/): Tacx is leader of virtual reality trainers, ergotrainers ...
