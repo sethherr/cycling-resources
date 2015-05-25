@@ -13,3 +13,6 @@ Collection of useful devices.
 
 ## Training
 * [Tacx](https://www.tacx.com/): Tacx is leader of virtual reality trainers, ergotrainers ...
+* [Kinetic](https://kurtkinetic.com): Indoor trainers
+* [Wahoo](http://eu.wahoofitness.com): Indoor trainers, HR belts, ..
+* [Elite](http://www.elite-it.com/en): Indoor tainers
