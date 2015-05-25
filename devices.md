@@ -9,6 +9,10 @@ Collection of useful devices.
 ## Power Meters
 
 * [Stages Power](http://www.stagescycling.com/stagespower): A power meter for every rider.
+* [Quarq](http://www.quarq.com): PM
+* [SRM](http://www.srm.de/home/): Top notch training devices and PMs
+* [Power2Max](http://www.power2max.de): PM
+* [PowerTap](https://www.powertap.com): PM
 
 
 ## Training
