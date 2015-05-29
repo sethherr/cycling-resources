@@ -13,7 +13,7 @@ Collection of useful devices.
 * [SRM](http://www.srm.de/home/): Top notch training devices and PMs
 * [Power2Max](http://www.power2max.de): PM
 * [PowerTap](https://www.powertap.com): PM
-
+* [4iiii](http://4iiii.com): PM
 
 ## Training
 * [Tacx](https://www.tacx.com/): Tacx is leader of virtual reality trainers, ergotrainers ...
