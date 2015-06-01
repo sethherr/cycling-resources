@@ -17,6 +17,7 @@ etc ...
 * [GPSies](http://www.gpsies.com/trackList.do): Find routes in your area for your GPS device.
 * [Fit File Tools](https://www.fitfiletools.com/): A collection of useful tools for manipulating FIT files.
 * [Bike Route Toaster](http://bikeroutetoaster.com): An online basecamp solution
+* [Map My Ride](http://www.mapmyride.com/): Bike Maps, Cycling Workout, Biking Routes
 
 # Indoor Training
 * [Zwift](http://www.zwift.com) - A 3D cycling training game
