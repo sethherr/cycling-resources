@@ -9,14 +9,14 @@ Collection of useful devices.
 ## Power Meters
 
 * [Stages Power](http://www.stagescycling.com/stagespower): A power meter for every rider.
-* [Quarq](http://www.quarq.com): PM
 * [SRM](http://www.srm.de/home/): Top notch training devices and PMs
-* [Power2Max](http://www.power2max.de): PM
-* [PowerTap](https://www.powertap.com): PM
-* [4iiii](http://4iiii.com): PM
+* [Quarq](http://www.quarq.com)
+* [Power2Max](http://www.power2max.de)
+* [PowerTap](https://www.powertap.com)
+* [4iiii](http://4iiii.com)
 
 ## Training
 * [Tacx](https://www.tacx.com/): Tacx is leader of virtual reality trainers, ergotrainers ...
 * [Kinetic](https://kurtkinetic.com): Indoor trainers
-* [Wahoo](http://eu.wahoofitness.com): Indoor trainers, HR belts, ..
+* [Wahoo](http://eu.wahoofitness.com): Indoor trainers, Heart rate belts, ..
 * [Elite](http://www.elite-it.com/en): Indoor tainers
