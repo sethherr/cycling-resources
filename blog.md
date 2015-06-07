@@ -7,3 +7,4 @@ Blogs about training, cycling, food, etc..
 * [BikeRadar](http://www.bikeradar.com): Bike reviews, bike gear, parts and accessories, ..
 * [CyclingNews](http://www.cyclingnews.com)
 * [Better-Biking](http://better-biking.com)
+* [Velominati](http://www.velominati.com)
