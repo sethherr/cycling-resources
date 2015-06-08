@@ -8,3 +8,4 @@ Blogs about training, cycling, food, etc..
 * [CyclingNews](http://www.cyclingnews.com)
 * [Better-Biking](http://better-biking.com)
 * [Velominati](http://www.velominati.com)
+* [Race Fiets Blog](http://racefietsblog.nl)
