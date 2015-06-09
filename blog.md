@@ -9,3 +9,4 @@ Blogs about training, cycling, food, etc..
 * [Better-Biking](http://better-biking.com)
 * [Velominati](http://www.velominati.com)
 * [Race Fiets Blog](http://racefietsblog.nl)
+* [CyclingTips](http://cyclingtips.com.au)
