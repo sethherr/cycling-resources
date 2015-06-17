@@ -21,3 +21,4 @@ Collection of useful devices.
 * [Kinetic](https://kurtkinetic.com): Indoor trainers
 * [Wahoo](http://eu.wahoofitness.com): Indoor trainers, Heart rate belts, ..
 * [Elite](http://www.elite-it.com/en): Indoor tainers
+* [Cycleops](https://www.cycleops.com/): Indoor Bike Trainers, Rollers and Indoor Cycles. 
