@@ -14,6 +14,7 @@ Collection of useful devices.
 * [Power2Max](http://www.power2max.de)
 * [PowerTap](https://www.powertap.com)
 * [4iiii](http://4iiii.com)
+* [Rotor](http://www.rotorbike.com/): Rotor bike components
 
 ## Training
 * [Tacx](https://www.tacx.com/): Tacx is leader of virtual reality trainers, ergotrainers ...
