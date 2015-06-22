@@ -11,3 +11,5 @@ Blogs about training, cycling, food, etc..
 * [Race Fiets Blog](http://racefietsblog.nl)
 * [CyclingTips](http://cyclingtips.com.au)
 * [CyclingWeekly](http://www.cyclingweekly.co.uk/)
+* [In The Know Cycling](http://intheknowcycling.com): What cycling gear to get next and where to get it
+
