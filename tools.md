@@ -11,6 +11,7 @@ etc ...
 ## Activity trackers/analytics
 
 * [Strava](http://www.strava.com/): GPS Run and Ride Tracker
+* [VeloViewer](http://veloviewer.com/): VeloViewer provides fully sortable and filterable lists, maps, graphs and 3d profiles for your full STRAVA history with more stats than you'll know what to do with. All your rides, runs, swims etc. and all the segments you've ever covered with up-to-date placings.
 
 ## GPS
 
